@@ -1,0 +1,4 @@
+Jason Freedman 		I.D. # 001773840	Assignment 0
+
+
+I can't get the program to properly write the results to another file, so I just told it to print to the terminal (I used cout in place of writting it to a file). I don’t know if I’m using an improper way of writing the code or if it is a problem of my Xcode program being outdated (the write-out command I used was ifstream outFile("JasonFreedman.out") ). Everything else is working properly

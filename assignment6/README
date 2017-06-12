@@ -1,0 +1,4 @@
+Jason Freedman 		I.D. # 001773840	Assignment 5
+
+
+I didn’t know if you wanted me to place each of the sorting algorithms in their own file or if you wanted me to put all 3 into one file, so I did both. In the “main” file, I randomly generated numbers for the array rather than using them from a text file so I could make the array large enough for my time calculation to actually register how long each algorithm took in comparison to the others. The separate files read numbers from the text file “List.txt”. Everything is working properly.

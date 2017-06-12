@@ -1,0 +1,15 @@
+Tom
+Freshman
+Computer_Science
+1
+3.5
+Susan
+Freshman
+Computer_Science
+1
+3.5
+Bob
+Freshman
+Computer_Science
+2
+3.5
